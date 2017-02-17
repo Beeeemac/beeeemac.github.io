@@ -6,7 +6,7 @@ var config = {
   // - Your app's id on moneypot.com
   app_id: 18,                             // <----------------------------- EDIT ME!
   // - Displayed in the navbar
-  app_name: 'beeeemac.github.io',
+  app_name: 'https://untitled-dice.github.io',
   // - For your faucet to work, you must register your site at Recaptcha
   // - https://www.google.com/recaptcha/intro/index.html
   recaptcha_sitekey: '6Ldq6BUUAAAAAPtTvXuiKD_9W2v4S88cM27YQ4Oi',  // <----- EDIT ME!
